@@ -1,0 +1,2 @@
+# Legendshub
+Legend’s Hub is a super store in Dadu, Sindh. They needed an online shopping portal for their business to further reach their customers and grow their business. Therefore I have made a solution for them. I have designed and developed this project with PHP and MySQL and Html, CSS and Bootstrap framework  are used for front-end. It is a web shop, where a user can purchase items by ordering online, track their orders, review products etc. The project also has admin panel where admin(s) can monitor sell records, add new products. manage orders and users etc.
